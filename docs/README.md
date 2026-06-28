@@ -237,3 +237,16 @@ important/relevant parts are:
 If you need to include new files, simply add them to the `INPUT` in the
 `Doxyfile`. The generated output is included to the ExecuTorch documentation
 build and referenced in `index.md`.
+
+<!-- THOX-DOCS-BASELINE:START -->
+## THOX Documentation Baseline
+
+This documentation set is maintained for release readiness and operational clarity under THOX.ai LLC.
+
+- Tommy Xaypanya is CTO.
+- Craig Ross is CEO.
+- Keep setup, validation, release, and legal notes current with the implementation.
+- Preserve third-party notices and upstream license obligations when this repository includes external components.
+
+Copyright (c) 2026 THOX.ai LLC. All rights reserved unless a repository-specific license states otherwise.
+<!-- THOX-DOCS-BASELINE:END -->
